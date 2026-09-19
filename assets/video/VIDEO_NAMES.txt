@@ -1,0 +1,20 @@
+فيديوهات Hero لكل صفحة:
+hero.mp4
+hero-flights.mp4
+hero-hotels.mp4
+hero-destinations.mp4
+hero-booking.mp4
+hero-about.mp4
+hero-contact.mp4
+
+فيديوهات الوجهات:
+destination-cairo.mp4
+destination-riyadh.mp4
+destination-dubai.mp4
+
+فيديوهات الفنادق:
+hotel-1.mp4
+hotel-2.mp4
+hotel-3.mp4
+
+يفضل MP4/H.264 مع ضغط جيد وposter JPG/WebP.

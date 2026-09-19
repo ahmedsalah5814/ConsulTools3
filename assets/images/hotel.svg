@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#071a2b"/><stop offset="1" stop-color="#c5a059"/></linearGradient></defs>
+<rect width="1200" height="700 fill="url(#g)"/><circle cx="950" cy="140" r="170" fill="#ffffff" opacity=".08"/>
+<text x="600" y="320" fill="white" font-size="68" font-family="Arial" text-anchor="middle">QONSUL HOTELS</text>
+<text x="600" y="390" fill="#e2c27b" font-size="34" font-family="Arial" text-anchor="middle">إقامة مريحة</text></svg>
